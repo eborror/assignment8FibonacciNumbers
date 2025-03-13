@@ -1,2 +1,3 @@
-# assignment8FibonacciNumbers
-simple project to accept an integer and print that term in the Fibonacci sequence
+== REVERSE STRING README ==
+
+This project accepts an integer and prints that term in the Fibonacci sequence
